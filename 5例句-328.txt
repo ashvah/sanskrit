@@ -1,0 +1,104 @@
+1) A ca B ca 
+    both and
+2) hitopadeśa 嘉言集 hita+upadeśa
+3) paṇḍitā [梵] 班智达 pundit [英] 专家 
+    班 paṇ[梵] 禅 chen[藏] 额尔德尼 erdeni[满] lama 喇嘛
+
+
+धर्मस्य त्वरिता गतिः  ॥ १ ॥
+dharmasya tvaritā gatiḥ  || 1 ||
+dharma [m] 法		tvarita [形] 迅速		gati [f] 步态
+单数属格 -› dharmasya	阴性单数体格 -› tvaritā	单数体格 -› gatiḥ
+法的步态是迅速的
+
+
+उपदेशो मूर्खाणां प्रकोपाय न शान्तये  ॥ २ ॥
+upadeśo mūrkhāṇāṃ prakopāya na śāntaye  || 2 ||
+upadeśa [m] 教训		mūrkha [m] 愚者		prakopa [m] 愤怒		na 不	śānti [f] 安静
+单数体格 -› upadeśaḥ	复数属格 -› mūrkhāṇām	单数为格 -› prokopāya		单数为格 -› śāntaye
+对愚者而言, 教训招致愤怒而不是安静
+
+
+शत्रौ सान्त्वं प्रतीकारः  ॥ ३ ॥
+śatrau sāntvaṃ pratīkāraḥ  || 3 ||
+śatru [m] 敌人	sāntva [n] 调解		pratīkāra [m] 对策
+单数依格 -› śatrau	单数体格 -› sāntvam		单数体格 -› pratīkāraḥ
+与敌人和解是对策
+
+
+वृथा वृष्टिः समुद्रस्य तृप्तस्य भोजनं वृथा  ॥ ४ ॥
+vṛthā vṛṣṭiḥ samudrasya tṛptasya bhojanaṃ vṛthā  || 4 ||
+vṛthā 徒劳无用	vṛṣṭi [f] 雨		samudra [m] 大海		tṛpta [形] 饱了		bhojana [n] 食物
+		单数体格 -› vṛṣṭiḥ	单数属格 -› samudrasya 	阳性单数属格 -› tṛptasya	单数体格 -› bhojanam
+对大海而言, 雨是无用的; 对饱了的人而言, 食物是无用的
+
+
+संपत्तेश्च विपत्तेश्च दैवमेव कारणम् ॥ ५ ॥
+saṃpatteś ca vipatteś ca daivam eva kāraṇam || 5 ||
+saṃpatti [f] 幸运	ca 和	vipatti [f] 不幸	daiva [n] 命运	eva 正是	kāraṇa [n] 原因
+单数属格 -› saṃpatteḥ	单数属格 -› vipatteḥ	单数体格 -› daivam		单数体格 -› kāraṇam
+幸运和不幸的原因正是命运
+
+
+वह्निरेव वह्नेर्भेषजम् ॥ ६ ॥
+vahnireva vahnerbheṣajam  || 6 ||
+vahnireva=vahniḥ+eva	vahnerbheṣajam=vahneḥ+bheṣajam
+vahni [m] 火			eva 正是	bheṣaja [n] 对策
+单数体格 -› vahniḥ  单数属格 -› vahneḥ		单数体格 -› bheṣajam
+火正是火的对策
+
+
+शत्रोरपि गुणा ग्राह्या दोषा वाच्या गुरोरपि  ॥ ७ ॥
+śatrorapi guṇā grāhyā doṣā vācyā gurorapi  || 7 ||
+śatru [m] 敌人	api 即使	guṇa [m] 品德	grāhya [形] 应得到认可的	doṣa [m] 罪	vācya [形] 当说的		guru [m] 教师
+单数属格 -› śatroḥ		复数体格 -› guṇāḥ	阳性复数体格 -› grāhyāḥ	复数体格 -› doṣāḥ	阳性复数体格 -› vācyāḥ 	单数属格 -› guroḥ
+敌人的品德也是应当得到认可的, 教师的过错也是应当批评的
+
+
+धर्मेण हीनाः पशुभिः समानाः  ॥ ८ ॥
+dharmeṇa hīnāḥ paśubhiḥ samānāḥ  || 8 ||
+dharma [m] 法		hīna [过分] 无 ... 的		paśu [m] 牲畜		samāna [形] 同样的
+单数具格 -› dharmeṇa	阳性复数体格 -› hīnāḥ	复数具格 -› paśubhiḥ	阳性复数体格 -› samānāḥ
+没有法就和牲畜一样
+
+
+वृद्धस्य तरुणि विषम् ॥ ९ ॥
+vṛddhasya taruṇi viṣam  || 9 ||
+vṛddha [m] 上年纪的		taruṇī [f] 年轻女子	viṣa [n] 毒药
+单数属格 -› vṛddhasya	单数体格 -› taruṇī	单数体格 -› viṣam
+年轻女子是老男人的毒药
+
+
+न नार्यो विनेर्ष्यया  ॥ १० ॥
+na nāryo vinerṣyayā  || 10 ||
+na 不	nārī [f] 女人	vinā 没有	īrṣyā [f] 嫉妒 
+	复数体格 -› nāraḥ		单数具格 -› īrṣyayā
+不存在没有嫉妒心的女人
+
+
+असंतोषः श्रियो मूलम् ॥ ११ ॥
+asaṃtoṣaḥ śriyo mūlam  || 11 ||
+asaṃtoṣa [m] 不满意	śrī [f] 幸运		mūla [n] 根 
+单数体格 -› asaṃtoṣaḥ	单数属格 -› śriyaḥ	单数体格 -› mūlam
+对幸运而言, 不满意是根基
+
+
+स्त्रियो निसर्गादेव पण्डिताः   ॥ १२ ॥
+striyo nisargādeva paṇḍitāḥ  || 12 ||
+strī [f] 女子	nisarga [m] 天性	eva 正是	paṇḍita [形] 聪明的
+复数体格 -> striyaḥ	单数从格 -› nisargāt		阴性复数体格 −› paṇḍitāḥ
+出于天性, 女子是聪明的
+
+
+चला लक्ष्मीश्चलाः प्राणाः  ॥ १३ ॥
+calā lakṣmīścalāḥ prāṇāḥ  || 13 ||
+cala [形] 易变的				lakṣmī [f] 幸福	prāṇa [m] 生命
+阴性单数体格 -› calā	阳性复数体格 -› calāḥ	单数体格 -› lakṣmīḥ  复数体格 -› prāṇāḥ
+易变的爱情, 易变的生命
+
+
+हार्यः पिशाचिका इव हरन्ति हृदयानि मुग्भानाम् ॥ १४ ॥
+hāryaḥ piśācikā iva haranti hṛdayāni mugbhānām  || 14 ||
+hārī [f] 女人	piśācikā [f] 女魔鬼		iva 犹如	hāranti [v] 第三人称复数	征服 hṛdaya [n] 心		mugbha [m] 傻瓜
+复数体格 -› hāryaḥ	复数体格 -› piśācikāḥ					复数业格 -› hṛdayāni		复数属格 -› mugbhānām
+女人犹如魔鬼一般征服傻瓜的心

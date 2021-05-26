@@ -1,0 +1,280 @@
+曲折变化-名词变格
+
+0) 普遍规则
+	单数	双数		复数
+* 体格	s	au/ī		as/i
+* 业格	am	au/ī		as/i
+* 具格	ā	bhyām		bhis
+* 为格	e	bhyām		bhyas
+* 从格	as	bhyām		bhyas
+* 属格	as	os		ām
+* 依格	i	os		su
+* 呼格	s	au/ī		as/i
+
+1) -a 语干 阳性 aśva(马)
+	单数	复数		双数
+* 体格	aśvaḥ	aśvāḥ		aśvau
+* 业格	aśvam	aśvān		aśvau
+* 具格	aśvena	aśvaiḥ		aśvābhyām
+* 为格	aśvāya	aśvebhyaḥ	aśvābhyām
+* 从格	aśvāt	aśvebhyaḥ	aśvābhyām
+* 属格	aśvasya	aśvānām		aśvayoḥ
+* 依格	aśve	aśveṣu		aśvayoḥ
+* 呼格	aśva	aśvāḥ		aśvau
+
+2) -a 语干 中性 dāna(施舍)
+	单数	复数		双数
+* 体格	dānam	dānāni		dāne
+* 业格	dānam	dānāni		dāne
+* 具格	dānena	dānaiḥ		dānābhyām
+* 为格	dānāya	dānebhyaḥ	dānābhyām
+* 从格	dānāt	dānat		dānābhyām
+* 属格	dānasya	dānānām		dānayoḥ
+* 依格	dāne	dāneṣu		dānayoḥ
+* 呼格	dāna	dānāni		dāne
+
+3) -ā 语干 阴性 kanyā(女孩)
+	单数		复数		双数
+* 体格	kanyā		kanyāḥ		kanye
+* 业格	kanyām		kanyāḥ		kanye
+* 具格	kanyayā		kanyābhiḥ	kanyābhyām
+* 为格	kanyāyai		kanyābhyaḥ	kanyābhyām
+* 从格	kanyāyāḥ		kanyābhyaḥ	kanyābhyām
+* 属格	kanyāyāḥ		kanyānām	kanyayoḥ
+* 依格	kanyāyām	kanyāsu		kanyayoḥ
+* 呼格	kanye		kanyāḥ		kanye
+
+4) -i 语干 阳性 kavi(诗人)
+	单数	双数		复数
+* 体格	kaviḥ	kavī		kavayaḥ
+* 业格	kavim	kavī		kavīn
+* 具格	kavinā	kavibhyām	kavibhiḥ
+* 为格	kavaye	kavibhyām	kavibhyaḥ
+* 从格	kaveḥ	kavibhyām	kavibhyaḥ
+* 属格	kaveḥ	kavyoḥ		kavīnām
+* 依格	kavau	kavyoḥ		kaviṣu
+* 呼格	kave	kavī		kavayaḥ
+
+a) 例外: sakhi(朋友): 
+	单数		双数		复数
+* 体格	sakhā		sakhāyau		sakhāyaḥ
+* 业格	sakhāyam		sakhāyau		sakhīn
+* 具格	sakhyā		sakhibhyām	sakhibhiḥ
+* 为格	sakhye		sakhibhyām	sakhibhyaḥ
+* 从格	sakhyuḥ		sakhibhyām	sakhibhyaḥ
+* 属格	sakhyuḥ		sakhyoḥ		sakhīnām
+* 依格	sakhyau		sakhyoḥ		sakhiṣu
+* 呼格	sakhe		sakhāyau		sakhāyaḥ
+
+b) 例外: pati(主人, 丈夫)
+	单数	双数		复数
+* 体格	patiḥ	patī		patayaḥ
+* 业格	patim	patī		patīn
+* 具格	patyā	patibhyām	patibhiḥ
+* 为格	patye	patibhyām	patibhyaḥ
+* 从格	patyuḥ	patibhyām	patibhyaḥ
+* 属格	patyuḥ	patyoḥ		patīnām
+* 依格	patyau	patyoḥ		patiṣu
+* 呼格	pate	patī		patayaḥ
+
+5) -u 语干 阳性 paśu(牲畜)
+	单数	双数		复数
+* 体格	paśuḥ	paśū		paśavaḥ
+* 业格	paśum	paśū		paśūn
+* 具格	paśunā	paśubhyām	paśubhiḥ
+* 为格	paśave	paśubhyām	paśubhyaḥ
+* 从格	paśoḥ	paśubhyām	paśubhyaḥ
+* 属格	paśoḥ	paśvoḥ		paśūnām
+* 依格	paśau	paśvoḥ		paśuṣu
+* 呼格	paśo	paśū		paśavaḥ
+
+6) -i 语干 阴性 mati(思想)
+	单数		双数		复数
+* 体格	matiḥ		matī		matayaḥ
+* 业格	matim		matī		matiḥ
+* 具格	matyā		matibhyām	matibhiḥ
+* 为格	mataye/matyai	matibhyām	matibhyaḥ
+* 从格	mateḥ/matyāḥ	matibhyām	matibhyaḥ
+* 属格	mateḥ/matyāḥ	matyoḥ		matīnām
+* 依格	matau/matyām	matyoḥ		matiṣu
+* 呼格	mate		matī		matayaḥ
+
+7) -u 语干 阴性 dhenu(牛)
+	单数		双数		复数
+* 体格	dhenuḥ		dhenū		dhenavaḥ
+* 业格	dhenum		dhenū		dhenuḥ
+* 具格	dhenvā		dhenubhyām	dhenubhiḥ
+* 为格	dhenave/dhenvai	dhenubhyām	dhenubhyaḥ
+* 从格	dhenoḥ/dhenvāḥ	dhenubhyām	dhenubhyaḥ
+* 属格	dhenoḥ/dhenvāḥ	dhenvoḥ		dhenūnām
+* 依格	dhenau/dhenvām	dhenvoḥ		dhenuṣu
+* 呼格	dhene		dhenū		dhenavaḥ
+
+8) -i 语干 中性 vāri(水)
+	单数		双数		复数
+* 体格	vāri		vāriṇī		vārīni
+* 业格	vāri		vāriṇī		vārīni
+* 具格	vāriṇā		vāribhyām	vāribhiḥ
+* 为格	vāriṇe		vāribhyām	vāribhyaḥ
+* 从格	vāriṇaḥ		vāribhyām	vāribhyaḥ
+* 属格	vāriṇaḥ		vāriṇoḥ		vārīṇām
+* 依格	vāriṇi		vāriṇoḥ		vāriṣu
+* 呼格	vāri		vāriṇī		vārīṇi
+ 
+9) -u 语干 中性 madhu(蜜)
+	单数		双数		复数
+* 体格	madhu		madhunī		madhūni
+* 业格	madhu		madhunī		madhūni
+* 具格	madhunā		madhubhyām	madhubhiḥ
+* 为格	madhune		madhubhyām	madhubhyaḥ
+* 从格	madhunaḥ	madhubhyām	madhubhyaḥ
+* 属格	madhunaḥ	madhunoḥ	madhūnām
+* 依格	madhuni		madhunoḥ	madhuṣu
+* 呼格	madhu		madhunī		madhūni
+
+10) -ī 语干 阴性 单音节 dhī(思想)
+	单数		双数		复数
+* 体格	dhīḥ		dhiyau		dhiyaḥ
+* 业格	dhiyam		dhiyau		dhiyaḥ
+* 具格	dhiyā		dhībhyām	dhībhiḥ
+* 为格	dhiye/dhiyai	dhībhyām	dhībhyaḥ
+* 从格	dhiyaḥ/dhiyāḥ	dhībhyām	dhībhyaḥ
+* 属格	dhiyaḥ/dhiyāḥ	dhiyoḥ		dhiyām/dhīnām
+* 依格	dhiyi/dhiyām	dhiyoḥ		dhīṣu
+* 呼格	dhīḥ		dhiyau		dhiyaḥ
+
+例外: strī(女子) 
+	单数		双数		复数
+* 体格	strī		striyau		striyaḥ
+* 业格	striyam/strīm	striyau		striyaḥ/strīḥ
+* 具格	striyā		strībhyām		strībhiḥ
+* 为格	striyai		strībhyām		strībhyaḥ
+* 从格	striyāḥ		strībhyām		strībhyaḥ
+* 属格	striyāḥ		striyoḥ		strīṇām
+* 依格	striyām		striyoḥ		strīṣu
+* 呼格	stri		striyau		striyaḥ
+ 
+11) -ū 语干 阴性 单音节 bhū(大地)
+	单数		双数		复数
+* 体格	bhūḥ		bhuvau		bhuvaḥ
+* 业格	bhuvam		bhuvau		bhuvaḥ
+* 具格	bhuvā		bhūbhyām	bhūbhiḥ
+* 为格	bhuve/bhuvai	bhūbhyām	bhūbhyaḥ
+* 从格	bhuvaḥ/bhuvāḥ	bhūbhyām	bhūbhyaḥ
+* 属格	bhuvaḥ/bhuvāḥ	bhuvoḥ		bhuvām/bhūnām
+* 依格	bhivi/bhivām	bhuvoḥ		bhūṣu
+* 呼格	bhūḥ		bhuvau		bhuvaḥ
+
+12) -ī 语干 阴性 多音节 nadī(河)
+	单数		双数		复数
+* 体格	nadī		nadyau		nadyaḥ
+* 业格	nadīm		nadyau		nadīḥ
+* 具格	nadyā		nadībhyām	nadībhiḥ
+* 为格	nadyai		nadībhyām	nadībhyaḥ
+* 从格	nadyāḥ		nadībhyām	nadībhyaḥ
+* 属格	nadyāḥ		nadiyoḥ		nadīnām
+* 依格	nadyām		nadiyoḥ		nadīṣu
+* 呼格	nadi		nadyau		nadyaḥ
+ 
+13) -ū 语干 阴性 多音节 vadhū(女子)
+	单数		双数		复数
+* 体格	vadhūḥ		vadhvau		vadhuvaḥ
+* 业格	vadhūm		vadhvau		vadhūḥ
+* 具格	vadhvā		vadhūbhyām	vadhūbhiḥ
+* 为格	vadhvai		vadhūbhyām	vadhūbhyaḥ
+* 从格	vadhvāḥ		vadhūbhyām	vadhūbhyaḥ
+* 属格	vadhvāḥ		vadhuvoḥ		vadhūnām
+* 依格	vadhvām		vadhuvoḥ		vadhūṣu
+* 呼格	vadhu		vadhvau		vadhvaḥ
+
+例外: lakṣmī(幸福) 单数体格 lakṣmīḥ
+
+14) -ṛ 语干 行动名词 (-tṛ) dātṛ(给予者)
+* 阳性:
+	单数		双数		复数
+* 体格	dātā		dātārau		dātāraḥ
+* 业格	dātāram		dātārau		dātṝn
+* 具格	dātrā		dātṛbhyām	dātṛbhiḥ
+* 为格	dātre		dātṛbhyām	dātṛbhyaḥ
+* 从格	dātuḥ		dātṛbhyām	dātṛbhyaḥ
+* 属格	dātuḥ		dātroḥ		dātṝṇām
+* 依格	dātari		dātroḥ		dātṛṣu
+* 呼格	dātaḥ(r)		dātārau		dātāraḥ
+
+* 中性:
+	单数		双数		复数
+* 体格	dātṛ		dātṛṇī		dātṛṇi
+* 业格	dātṛ		dātṛṇī		dātṛṇi
+* 具格	dātṛṇā		dātṛbhyām	dātṛbhiḥ
+* 为格	dātṛṇe		dātṛbhyām	dātṛbhyaḥ
+* 从格	dātṛṇaḥ		dātṛbhyām	dātṛbhyaḥ
+* 属格	dātṛṇaḥ		dātrṇoḥ		dātṝṇām
+* 依格	dātṛṇi		dātrṇoḥ		dātṛṣu
+* 呼格	dātṛ/dātaḥ	dātṛṇī		dātṝṇi
+
+15) -ṛ 语干 亲属名词 (-tṛ) 阳性 pitṛ(父亲)
+	单数		双数		复数
+* 体格	pitā		pitarau		pitaraḥ
+* 业格	pitaram		pitarau		pitṝn
+* 具格	pitrā		pitṛbhyām	pitṛbhiḥ
+* 为格	pitre		pitṛbhyām	pitṛbhyaḥ
+* 从格	pituḥ		pitṛbhyām	pitṛbhyaḥ
+* 属格	pituḥ		pitroḥ		pitṝṇām
+* 依格	pitari		pitroḥ		pitṛṣu
+* 呼格	pitaḥ		pitarau		pitaraḥ
+
+16) -ṛ 语干 亲属名词 (-tṛ) 阴性 mātṛ(母亲)
+	单数		双数		复数
+* 体格	mātā		mātarau		mātaraḥ
+* 业格	mātaram		mātarau		mātṝḥ
+* 具格	mātrā		mātṛbhyām	mātṛbhiḥ
+* 为格	mātre		mātṛbhyām	mātṛbhyaḥ
+* 从格	mātuḥ		mātṛbhyām	mātṛbhyaḥ
+* 属格	mātuḥ		mātroḥ		mātṝṇām
+* 依格	mātari		mātroḥ		mātṛṣu
+* 呼格	mātaḥ		mātarau		mātaraḥ
+
+17) -ṛ 语干 亲属名词  阳性 nṛ(人)
+	单数		双数		复数
+* 体格	nā		narau		naraḥ
+* 业格	-		narau		nṝṇam/nṛṇām
+* 具格	-		nṛbhyām		nṛbhiḥ
+* 为格	-		nṛbhyām		nṛbhyaḥ
+* 从格	-		nṛbhyām		nṛbhyaḥ
+* 属格	-		nroḥ		nṝṇām
+* 依格	-		nroḥ		nṛṣu
+* 呼格	-		narau		naraḥ
+
+18) 复合元音 阴/阳性 go(牛)
+	单数		双数		复数
+* 体格	gauḥ		gāvau		gāvaḥ
+* 业格	gām		gāvau		gāḥ
+* 具格	gavā		gobhyām		gobhiḥ
+* 为格	gave		gobhyām		gobhyaḥ
+* 从格	goḥ		gobhyām		gobhyaḥ
+* 属格	goḥ		gavoḥ		govām
+* 依格	gavi		gavoḥ		goṣu
+* 呼格	gauḥ		gāvau		gāvaḥ
+
+19) 复合元音 阴性 nau(船)
+	单数		双数		复数
+* 体格	nauḥ		nāvau		nāvaḥ
+* 业格	nāvam		nāvau		nāvaḥ
+* 具格	nāvā		naubhyām	naubhiḥ
+* 为格	nāve		naubhyām	naubhyaḥ
+* 从格	nāvaḥ		naubhyām	naubhyaḥ
+* 属格	nāvaḥ		nāvoḥ		nāvām
+* 依格	nāvi		nāvoḥ		nauṣu
+* 呼格	nauḥ		nāvau		nāvaḥ
+
+20) 复合元音 阳性 rai(财富)
+	单数		双数		复数
+* 体格	rāḥ		rāyau		rāyaḥ
+* 业格	rāyam		rāyau		rāyaḥ
+* 具格	rāyā		rābhyām		rābhiḥ
+* 为格	rāye		rābhyām		rābhyaḥ
+* 从格	rāyaḥ		rābhyām		rābhyaḥ
+* 属格	rāyaḥ		rāyoḥ		rāyām
+* 依格	rāyi		rāyoḥ		rāṣu
+* 呼格	rāḥ		rāyau		rāyaḥ
+

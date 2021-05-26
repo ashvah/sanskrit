@@ -1,0 +1,62 @@
+अप्रियस्य पथ्यस्य वक्ता श्रोता च दुर्लभः  ॥ १ ॥
+apriyasya pathyasya vaktā śrotā ca durlabhaḥ  || 1 ||
+apriya [形] 对...不适的	pathya [形] 有疗效的		vaktṛ [m] 谈话人	śrotṛ [m] 听者	ca 和	durlabha [形] 难得的
+中性单数属格 -› apriyasya	中性单数属格 -› pathyasya	单数体格 -› vaktā	单数体格 -› śrotā		阳性单数体格 -› durlabhaḥ
+对令人不适的言论和有疗效的言论而言, 说者与听者是难得的
+
+
+भर्ता नाम परं नार्या भूषणम् ॥ २ ॥
+bhartā nāma paraṃ nāryā bhūṣaṇam  || 2 ||
+bhartṛ [m] 丈夫	nāma [副] 确实	para [形] 最好		nārī [f] 女人	bhūṣaṇa [n] 装饰品
+单数体格 -› bhartā			中性单数体格 -› param	单数属格 -› nāryāḥ	单数体格 -› bhūṣaṇam
+丈夫确实是女人最好的装饰品
+
+
+दुहिता कृपण परम् ॥ ३ ॥
+duhitā kṛpaṇaṃ param  || 3 ||
+duhitṛ [f] 女儿	kṛpaṇaṃ [n] 悲惨		para [形] 最大
+单数体格 -› duhitā	单数体格 -› kṛpaṇaṃ		中性单数体格 -› param
+女儿是最大的不幸
+
+
+दर्दुरा यत्र वक्तारस्तत्र मौनं शोभनम्  || 4 ||
+dardurā yatra vaktārastatra maunaṃ śobhanam  || 4 ||
+dardura [m] 青蛙		yatra 哪儿	vaktṛ [m] 发言人 	tatra 在那里	mauna [n] 沉默		śobhana [形] 美丽的
+复数体格 -› dardurāḥ		复数体格 -› vaktāraḥ			单数体格 -› maunaṃ		中性单数体格 -› śobhanaṃ
+哪儿青蛙是发言人, 在那里沉默是最美丽的
+
+
+वृथा वक्तुः श्रमः सर्वो निर्विचारे नरेश्वरे  ॥ ५ ॥
+vṛthā vaktuḥ śramaḥ sarvo nirvicāre nareśvare  || 5 ||
+vṛthā 徒劳		vaktṛ [m] 发言人	śrama [m] 努力,幸苦	sarva 每个		nirvicāra 无绝断的		nareśvara [m] 国王
+		单数属格 -› vaktuḥ	单数体格 -› śramaḥ	阳性单数体格 -› sarvaḥ 	阳性单数依格 -› nirvicāre	单数依格 -› nareśvare
+国王是无绝断的, 每个发言人的努力都是徒劳的
+
+
+अमृतं दुर्लभं नॄणां देवानामुदकं तथा । पितॄणां दुर्लभः पुत्रस्तक्रं शक्रस्य दुर्लभम् ॥ ६ ॥
+amṛtaṃ durlabhaṃ nṝṇāṃ devānāmudakaṃ tathā | pitṝṇāṃ durlabhaḥ putrastakraṃ śakrasya durlabham  || 6 ||
+devānāmudakaṃ=devānam + udakam	putrastakraṃ=putraḥ + takram
+amṛta [n] 甘露	durlabha 难得的					nṛ [m] 人		deva [m] 天神, 王		udaka [中] 水	tathā 正是		pitṛ [m] 父亲	putra [m] 儿子	takra [n] 脱脂牛奶	śakra [m] 帝释
+单数体格 -› amṛtam	中性单数体格 -› durlabham 阳性单数体格 -› durlabhaḥ	复数属格 -› nṝṇām	复数属格 -› devānām	单数体格 -› udakam			复数属格 -› pitṝṇam	单数体格 -› putraḥ	单数体格 -› takram	单数属格 -› śakrasya
+对人而言, 甘露是难得的; 对天神而言, 水是同样难得的 | 对父亲而言, 儿子是难得的; 对帝释而言, 脱脂牛奶是难得的
+
+
+वयं सर्वस्य लोकस्य मातरः कविभिः स्तुताः  ॥ ७ ॥
+vayaṃ sarvasya lokasya mātaraḥ kavibhiḥ stutāḥ  || 7 ||
+vayam 我们	sarva 每个		loka [m] 世人		mātṛ [f] 母亲 	kavi [m] 诗人	stu 赞扬
+		阳性单数属格 -› sarvasya	阳性单数属格 -› lokasya	复数体格 -› mātaraḥ	复数具格 -› kavibhiḥ stutāḥ [过去被动分词] 曾被赞颂
+我们每个世人的母亲都曾被诗人赞颂
+
+
+नोदके शकटं याति न च नौर्गच्छति स्थले  ॥ ८ ॥
+nodake śakaṭaṃ yāti na ca naurgacchati sthale  || 8 ||
+na 不	udaka [n] 水	śakaṭa [m] 车	yāti [现在时直陈式单数第三人称] 行驶	ca 和	nau [f] 船		gacchati [现在时直陈式单数第三人称] 行驶	sthala [n] 陆地
+	单数依格 -› udake	单数体格 -› śakaṭam						单数体格 -› nauḥ	 					单数依格 -› sthale
+没有在水里行驶的车, 没有在陆地上行驶的船
+
+
+पौरवं गां भिक्षते  ॥ ९ ॥
+pauravaṃ gāṃ bhikṣate  || 9 ||
+paurava 普鲁族的		go [m] 牛		bhikṣate  [现在是直陈式单数第三人称] 乞讨 
+中性单数体格 -› pauravam	单数业格 -› gām	
+普鲁族人向牛乞讨
