@@ -131,16 +131,16 @@ B. 多语干
     dhīmat (聪明的)  单数体格 dhīmān	bhaga (辉煌) bhagavat 单数体格 -› bhagavān 薄伽梵(世尊)
 
 6) -an(元音后man van): 强 ān 中语干 a 弱语干 n(依格n或an)
-* 阴性阳性: rajan [m] 国王 
+* 阴性阳性: rājan [m] 国王 
 	单数		双数		复数
-* 体格	rajā		rajānau		rajānaḥ
-* 业格	rajānam		rajānau		rajñaḥ
-* 具格	rajñā		rajabhyām	rajabhiḥ
-* 为格	rajñe		rajabhyām	rajabhyaḥ
-* 从格	rajñaḥ		rajabhyām	rajabhyaḥ
-* 属格	rajñaḥ		rajñoḥ		rajñām
-* 依格	rajñi/rajani	rajñoḥ		rajasu
-* 呼格	rajan		rajānau		rajānaḥ
+* 体格	rājā		rājānau		rājānaḥ
+* 业格	rājānam		rājānau		rājñaḥ
+* 具格	rājñā		rājabhyām	rājabhiḥ
+* 为格	rājñe		rājabhyām	rājabhyaḥ
+* 从格	rājñaḥ		rājabhyām	rājabhyaḥ
+* 属格	rājñaḥ		rājñoḥ		rājñām
+* 依格	rājñi/rājani	rājñoḥ		rājasu
+* 呼格	rājan		rājānau		rājānaḥ
 * an 以及元音后的man, van 结尾的中性词 : nāman(名)
 	单数		双数		复数
 * 体格	nāma		nāmnī/nāmanī	nāmāni
