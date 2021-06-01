@@ -51,11 +51,11 @@ na rājānaṃ vinā rājyaṃ balavatsvapi mantriṣu  || 10 ||
 na 不
 rājan [m] 国王	单数业格 -› rājānam
 vinā 没有, 除了...以外
-rājya [n] 王国	单数体格 -› rājyam
-balavat [形] 有力的	复数依格 -› balavatsu
+rājya [n] 统治	单数体格 -› rājyam
+balavat [形] 有力的	阳性复数依格 -› balavatsu
 api 即使
 mantrin [m] 大臣	复数依格 -› mantriṣu
-即使大臣再有力, 没有国王的王国也是不行的
+即使大臣再有力, 没有国王的统治也是不行的
 
 
 प्रायेण ज्येष्ठाः पितृषु वल्लभा मातॄणां च कनीयंसः  ॥ ११ ॥
@@ -67,12 +67,12 @@ vallabha [形] 可爱的		复数体格 -› vallabhāḥ
 mātṝ [f] 母亲		复数属格 -› mātṝṇām
 ca 和
 kanīyas [m] 年龄稍小的儿子	复数体格 -› kanīyaṃsaḥ
-通常对父亲而言, 大儿子是可爱的; 对母亲而言, 小儿子是可爱的
+在父亲那里, 大儿子是可爱的; 对母亲而言, 小儿子是可爱的
 
 
 आकिंचन्यं धनं विदुषाम् ॥ १२ ॥
 ākiṃcanyaṃ dhanaṃ viduṣām  || 12 ||
-ākiṃcanya [形] 一贫如洗	中性单数体格 -› ākiṃcanyam
+ākiṃcanya [n] 一贫如洗	单数体格 -› ākiṃcanyam
 dhana [n] 财产		单数体格 -› dhanam
 vidvas [m] 智者		复数属格 -› viduṣām
 对智者而言, 一贫如洗是宝藏
@@ -81,13 +81,13 @@ vidvas [m] 智者		复数属格 -› viduṣām
 महीयांसः प्रकृत्या मितभाषिणः  ॥ १३ ॥
 mahīyāṃsaḥ prakṛtyā mitabhāṣiṇaḥ  || 13 ||
 mahīyas [形] 高贵的		单数体格 -› mahīyāṃsaḥ
-prakṛti [f] 天生		单数具格 -› prakṛtyā
+prakṛtyā 天生 
 mitabhāṣin [形] 话少的	单数体格 -› mitabhāṣiṇaḥ
 高贵的人天生话少
 
-मतिर्बलाद्नरीयसी  ॥ १४ ॥
-matirbalādnarīyasī  || 14 ||
+मतिर्बलाद्गरीयसी  ॥ १४ ॥
+matirbalādgarīyasī  || 14 ||
 mati [f] 智慧	单数体格 -› matiḥ
 bala [n] 力量	单数从格 -› balāt
-narīyasī [f] 	阴性单数体格 -› narīyasī
-智慧比力量更 ...
+garīyasī [f] 更重要 	单数体格 -› narīyasī
+智慧比力量更重要
