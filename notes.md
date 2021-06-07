@@ -31,15 +31,15 @@
 
 |          | 不送气清音 | 送气清音 | 不送气浊音 | 送气浊音 | 鼻音  |
 | -------- | ---------- | -------- | ---------- | -------- | --- |
-| 喉音     | ==ka==         | kha      | ga         | gha      | ==ṅa==  |
+| 喉音     | **ka**         | kha      | ga         | gha      | **ṅa**  |
 | 腭音     | ca         | cha      | ja         | jha      | ña  |
-| 卷舌音   | ==ṭa==         | ṭha      | ḍa         | ḍha      | ==ṇa==  |
-| 齿音     | ==ta==         | tha      | da         | dha      | ==na==  |
-| 唇音     | ==pa==         | pha      | ba         | bha      | ==ma==  |
-| 半元音   | ==ya==         | ra       | la         | va       |     |
+| 卷舌音   | **ṭa**         | ṭha      | ḍa         | ḍha      | **ṇa**  |
+| 齿音     | **ta**         | tha      | da         | dha      | **na**  |
+| 唇音     | **pa**         | pha      | ba         | bha      | **ma**  |
+| 半元音   | **ya**         | ra       | la         | va       |     |
 | 咝音     | śa         | ṣa       | sa         |          |     |
 | 气音     | ha         |          |            |          |     |
-| 辅助记号 | ṃ          | ~        | ==ḥ==          |          |     |
+| 辅助记号 | ṃ          | ~        | **ḥ**          |          |     | 
 
 * 1345行变为k\ṭ\t\p
 * c/ch/j/jh-›k	j-›ṭ
@@ -84,7 +84,7 @@
 
 
 4. Sandhi  鼻音+元/辅
-    * - V̌N+V- : 鼻音重复    आसन् अत्र āsan atra-›आसन्नस्त्र āsann astra(他们曾在此)
+    * \- V̌N+V- : 鼻音重复    आसन् अत्र āsan atra-›आसन्नस्त्र āsann astra(他们曾在此)
     * m+辅音:变为Anusvāra	तम् च tam ca-›तं च taṃ ca
     * n+浊腭音, 卷舌音, ś 变为同类鼻音: -n+j/jh-›-ñ   -n+ḍ/ḍh-›ṇ    -n+ś-›-ñ ch-   tān śaśān->tāñ śaśān/chaśān(这些兔子)
     * n+l-›l̃+l:	    tān lokān-›tāl̃ lokān(这些世界)
@@ -552,27 +552,27 @@ b) 例外: pati(主人, 丈夫)
 
 |      | 单数       | 双数        | 复数  |
 | ---- | ---------- | ----------- | ----- |
-| 体格 | ==s==        | ==au== | ==as==  |
-| 业格 | ==am==      | ==au== | as            |
-| 具格 | ā          | ++bhyām++       | ++bhis++  |
-| 为格 | e          | ++bhyām++       | ++bhyas++ |
-| 从格 | as         | ++bhyām++       | ++bhyas++ |
+| 体格 | **s**        | **au** | **as**  |
+| 业格 | **am**      | **au** | as            |
+| 具格 | ā          | *bhyām*       | *bhis*  |
+| 为格 | e          | *bhyām*       | *bhyas* |
+| 从格 | as         | *bhyām*       | *bhyas* |
 | 属格 | as         | os          | ām    |
-| 依格 | i          | os          | ++su++    |
-| 呼格 | ==s==        | ==au==       | ==as==  |
+| 依格 | i          | os          | *su*    |
+| 呼格 | **s**        | **au**       | **as**  |
 
 中
 
 |      | 单数   | 双数      | 复数      |
 | ---- | ------ | --------- | --------- |
-| 体格 | ++-++  | i   | ==i==    |
-| 业格 | ++-++ | i    | ==i==        |
-| 具格 | ā      | ++bhyām++ | ++bhis++  |
-| 为格 | e      | ++bhyām++ | ++bhyas++ |
-| 从格 | as     | ++bhyām++ | ++bhyas++ |
+| 体格 | *-*  | i   | **i**    |
+| 业格 | *-* | i    | **i**        |
+| 具格 | ā      | *bhyām* | *bhis*  |
+| 为格 | e      | *bhyām* | *bhyas* |
+| 从格 | as     | *bhyām* | *bhyas* |
 | 属格 | as     | os        | ām        |
-| 依格 | i      | os        | ++su++    |
-| 呼格 | ++s++  | ==au==    | ==as==    |
+| 依格 | i      | os        | *su*    |
+| 呼格 | *s*  | **au**    | **as**    | 
 
 
 1) 主动语态现在分词 at [m] 存在着 强 sant 弱 sat
@@ -696,12 +696,12 @@ b) 例外: pati(主人, 丈夫)
 | 呼格	|vidvān		|vidvāṃsau	|vidvāṃsaḥ 
 
 13) ac: 强
-a) 双语干 prāñc (东) 强 añc 中 ac
-b) 多语干 强 añc 中 ac 弱 īc
-东: prāñc prāc pra
-西: pratyañc pratyac pradīc pradi
-北: udañc udac udīc /ud
-南: avāñc avāc /ava
+a) 双语干 prāñc (东) 强 añc 中 ac  
+b) 多语干 强 añc 中 ac 弱 īc  
+东: prāñc prāc pra  
+西: pratyañc pratyac pradīc pradi  
+北: udañc udac udīc /ud  
+南: avāñc avāc /ava  
 
 
 ## 数词
@@ -721,12 +721,12 @@ b) 多语干 强 añc 中 ac 弱 īc
 ### 变格
 * 20-99 的数字作为**阴性单数**, 100,1000,10000和100000是**中性单数**
 * 被数之物以**复数**同一格作为同位语
-* ardhatrayodaśabhirbhikṣuśataiḥ
-ardha 0.5
-trayodaśa 13
-śata 100
-bhikṣu 比丘
-$(13-0.5)\times 100 = 1250\text{个比丘}$
+* ardhatrayodaśabhirbhikṣuśataiḥ  
+ardha 0.5  
+trayodaśa 13  
+śata 100  
+bhikṣu 比丘  
+$(13-0.5)\times 100 = 1250\text{个比丘}$  
 
 
 
