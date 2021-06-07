@@ -1,4 +1,4 @@
-# <center>梵语笔记</center>
+# <p align=center>梵语笔记</p>
 
 ###### tags: `Sanskrit` 
 ## 字体
